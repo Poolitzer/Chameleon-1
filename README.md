@@ -1,2 +1,2 @@
 # Chameleon
-The Chameleon - Telegram game bot
+The Chameleon - A telegram game bot
